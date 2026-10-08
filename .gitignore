@@ -1,0 +1,68 @@
+# ============================================================
+# UrbanFlow AI — .gitignore
+# ============================================================
+
+# ── Node / Frontend ──────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+.npm
+
+# ── Python / Backend ─────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+env/
+ENV/
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# ── Database ─────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Environment / Secrets ────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ── IDE & OS ─────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+pip-log.txt
+
+# ── ML / Data ────────────────────────────────────────────────
+*.pkl
+*.joblib
+*.model
+models/trained/
+
+# ── Misc ─────────────────────────────────────────────────────
+.cache/
+.pytest_cache/
+htmlcov/
+.coverage

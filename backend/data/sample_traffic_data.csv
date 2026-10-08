@@ -1,0 +1,11 @@
+timestamp,city,road,junction,vehicle_count,average_speed,queue_length,weather,incident,lane_count,signal_cycle,congestion_level,data_type
+2023-11-20T10:00:00,Bengaluru,Hosur Road,Silk Board,2500,15.5,800.0,Clear,,6,120,severe,simulated
+2023-11-20T10:15:00,Bengaluru,Old Madras Road,KR Puram,1800,20.0,500.0,Cloudy,,4,90,high,simulated
+2023-11-20T10:30:00,Hyderabad,HITEC City Main Road,HITEC City,2100,18.5,600.0,Clear,,4,110,severe,simulated
+2023-11-20T10:45:00,Chennai,GST Road,Kathipara,2200,16.0,700.0,Rain,,5,130,severe,simulated
+2023-11-20T11:00:00,Bengaluru,Hosur Road,Silk Board,2000,18.0,600.0,Clear,,6,120,high,simulated
+2023-11-20T11:15:00,Bengaluru,Old Madras Road,KR Puram,1500,25.0,300.0,Cloudy,,4,90,moderate,simulated
+2023-11-20T11:30:00,Hyderabad,HITEC City Main Road,HITEC City,1800,22.0,400.0,Clear,,4,110,high,simulated
+2023-11-20T11:45:00,Chennai,GST Road,Kathipara,1900,20.0,500.0,Rain,waterlogging,5,130,high,simulated
+2023-11-20T12:00:00,Bengaluru,Hosur Road,Silk Board,1500,25.0,300.0,Clear,,6,120,moderate,simulated
+2023-11-20T12:15:00,Bengaluru,Old Madras Road,KR Puram,1200,30.0,150.0,Cloudy,,4,90,moderate,simulated
